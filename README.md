@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I think I am funny.   
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%">https://github.com/kalilalincen/kalilalincen/tree/main
 
 ### Software Development  
 <div align="center">  
@@ -47,7 +47,9 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
 </td></tr></table>  
-
 <br/>  
+
+## My Portfolio
+Power BI Dashboards [Supermarket Sales Analysis](https://github.com/kalilalincen/Power-BI](https://github.com/kalilalincen/Power-BI/blob/main/Supermarket%20Sales%20Analysis/Supermarket%20Sales.pdf).
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
