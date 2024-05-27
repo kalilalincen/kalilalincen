@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I think I am funny.   
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">https://github.com/kalilalincen/kalilalincen/tree/main
+<table><tr><td valign="top" width="33%">
 
 ### Software Development  
 <div align="center">  
