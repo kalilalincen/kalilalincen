@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-# I'm Kalila, a ICT Business Analyst 👨‍💻 working remotely since 2013 🚀
+# I'm Kalila, a ICT Business Analyst 👨‍💻 working remotely since 2018 🚀
   
-- 🔭 I’m currently working on a Finantial Analysis Power BI Dashboard  
+- 🔭 I’m currently working on a Finantial Analysis Power BI Dashboard.  
   
 - 🌱 I’m currently learning Microsoft DP-100 and DP-600.  
 
