@@ -8,13 +8,10 @@
 
 - ❓ Ask me about anything related to AWS Cloud Services and the BABOK!  
   
-- ⚡ Fun fact: I think I am funny.  
-<br/>  
+- ⚡ Fun fact: I think I am funny.   
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Software Development  
 <div align="center">  
