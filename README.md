@@ -1,14 +1,15 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Kalila Lin</h1>
-- 🔭 I’m currently studying for **Microsoft Certifications: DP-100 and DP-600.**
-- 👯 I’m looking to collaborate on **Software Development Projects**
-- 🤝 My hobbies are **Hiking, Baseball, DnD and Netflix**
-- 🌱 I’m currently learning **Microsoft DP-100 and DP-600**
-- 💬 Ask me about **the BABOK**
-- 📫 How to reach me **kalilalincen@gmail.com**
-- 👨‍💻 All of my work and project experience are available at **www.linkedin.com/in/kalilalin**
-- 📝 I regularly write articles on **AWS Cloud Services and Data analysis**
-- ⚡ Fun fact **I think I am funny.**
+### <div align="center">I'm Kalila, a ICT Business Analyst 👨‍💻 working remotely since 2013 🚀</div>  
+  
+- 🔭 I’m currently working on a Finantial Analysis Power BI Dashboard  
+  
+- 🌱 I’m currently learning Microsoft DP-100 and DP-600.  
+
+- ❓ Ask me about anything related to AWS Cloud Services and the BABOK!  
+  
+- ⚡ Fun fact: I think I am funny.  
+
+<br/>  
 
 <div> <a href = "mailto:kalilalincen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
