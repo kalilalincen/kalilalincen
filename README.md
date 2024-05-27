@@ -50,6 +50,6 @@
 <br/>  
 
 ## My Portfolio
-Power BI Dashboards [Supermarket Sales Analysis](https://github.com/kalilalincen/Power-BI](https://github.com/kalilalincen/Power-BI/blob/main/Supermarket%20Sales%20Analysis/Supermarket%20Sales.pdf).
+Power BI Dashboards: [Supermarket Sales Analysis]([url](https://github.com/kalilalincen/Power-BI/blob/main/Supermarket%20Sales%20Analysis/Supermarket%20Sales.pdf))
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
