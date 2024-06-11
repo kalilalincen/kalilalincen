@@ -53,5 +53,8 @@
 
 ### Data-Analysis
 1. [Appliance Energy Consumption Forecasting](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Forecast%20Appliance%20Energy%20Consumption%20using%20Time%20Series.ipynb)
+2. [Groceries Store Recommender System](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Groceries%20Store%20Recommender%20System.ipynb) and [PDF report](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Groceries%20Store%20Recommender%20System%20Report.pdf)
+3. [Salary Income Prediction](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Income%20Prediction%20Project.ipynb)
+4. [Iris Species Classification](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Iris%20Species%20Classification%20Project.ipynb)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
