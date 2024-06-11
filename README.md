@@ -4,7 +4,7 @@
   
 - 🔭 I’m currently working on a Financial Analysis Power BI Dashboard.  
   
-- 🌱 I’m currently learning Microsoft DP-100 and DP-600.  
+- 🌱 I’m currently learning Microsoft PL-300.  
 
 - ❓ Ask me about anything related to AWS Cloud Services and the BABOK!  
   
