@@ -34,6 +34,9 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
+1. [Appliance Energy Consumption Forecasting](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Forecast%20Appliance%20Energy%20Consumption%20using%20Time%20Series.ipynb)
+2. [Groceries Store Recommender System](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Groceries%20Store%20Recommender%20System.ipynb) and [PDF report](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Groceries%20Store%20Recommender%20System%20Report.pdf)
+3. [Salary Income Prediction](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Income%20Prediction%20Project.ipynb)
 </div>
 </td><td valign="top" width="33%">
 
