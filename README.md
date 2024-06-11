@@ -52,6 +52,6 @@
 ## My Projects
 
 ### Data-Analysis
-1. [Appliance Energy Consumption Forecasting]([url](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Forecast%20Appliance%20Energy%20Consumption%20using%20Time%20Series.ipynb))
+1. [Appliance Energy Consumption Forecasting](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Forecast%20Appliance%20Energy%20Consumption%20using%20Time%20Series.ipynb)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
