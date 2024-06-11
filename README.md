@@ -62,9 +62,9 @@
 3. [Adelaide ABS Home](https://github.com/kalilalincen/Project-Management/blob/main/Adelaide%20ABS%20Home%20-%20Project%20Management%20Plan.pdf)
 4. My essay - [Agile Effectiveness Shaping Real-World Project Success](https://github.com/kalilalincen/Project-Management/blob/main/My%20essay%20-%20Agile%20Effectiveness%20Shaping%20Real-World%20Project%20Success%20(1).pdf)
 
-### Business Analysis
-1. Facilitation technique - [Agenda](https://github.com/kalilalincen/Business-Analyst/blob/main/Facilitation/Facilitation%20Agenda.pdf) and [Defrief(Summary)](https://github.com/kalilalincen/Business-Analyst/blob/main/Facilitation/Facilitation%20Debrief%20-%20Organisational%20Culture%20and%20Stakeholders.pdf)
-2. [BABOK Stakeholder Engagement Workshop Runsheet](https://github.com/kalilalincen/Business-Analyst/blob/main/Workshop/Workshop%20Runsheet%20-%20BABOK%20Chapter%203%20Part%201.pdf)
+### Business Analysis techniques
+1. Facilitation - [Agenda](https://github.com/kalilalincen/Business-Analyst/blob/main/Facilitation/Facilitation%20Agenda.pdf) and [Defrief(Summary)](https://github.com/kalilalincen/Business-Analyst/blob/main/Facilitation/Facilitation%20Debrief%20-%20Organisational%20Culture%20and%20Stakeholders.pdf)
+2. Workshop - [BABOK Stakeholder Engagement Workshop Runsheet](https://github.com/kalilalincen/Business-Analyst/blob/main/Workshop/Workshop%20Runsheet%20-%20BABOK%20Chapter%203%20Part%201.pdf)
 
 ### Power BI
 1. [Supermarket Sales Analysis](https://github.com/kalilalincen/Power-BI/tree/main/Supermarket%20Sales%20Analysis)
