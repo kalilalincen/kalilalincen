@@ -56,4 +56,20 @@
 3. [Salary Income Prediction](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Income%20Prediction%20Project.ipynb)
 4. [Iris Species Classification](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Iris%20Species%20Classification%20Project.ipynb)
 
+### Power BI
+1. [Supermarket Sales Analysis](https://github.com/kalilalincen/Power-BI/tree/main/Supermarket%20Sales%20Analysis)
+   ![image](https://github.com/kalilalincen/kalilalincen/assets/155357106/a973b229-e75a-40a7-9f1e-517c441b444a)
+
+
+### Project Management & Documentation
+1. Maptek - [Block Model Compression Algorithm](https://github.com/kalilalincen/Project-Management/tree/main/MapTek)
+2. University of Adelaide - VPN Laboratory [Data Visualisation Software Development](https://github.com/kalilalincen/Project-Management/tree/main/Data%20Visualisation%20Software%20Project)
+3. [Adelaide ABS Home](https://github.com/kalilalincen/Project-Management/blob/main/Adelaide%20ABS%20Home%20-%20Project%20Management%20Plan.pdf)
+4. My essay - [Agile Effectiveness Shaping Real-World Project Success](https://github.com/kalilalincen/Project-Management/blob/main/My%20essay%20-%20Agile%20Effectiveness%20Shaping%20Real-World%20Project%20Success%20(1).pdf)
+
+### Business Analysis
+1. Facilitation technique - [Agenda](https://github.com/kalilalincen/Business-Analyst/blob/main/Facilitation/Facilitation%20Agenda.pdf) and [Defrief(Summary)](https://github.com/kalilalincen/Business-Analyst/blob/main/Facilitation/Facilitation%20Debrief%20-%20Organisational%20Culture%20and%20Stakeholders.pdf)
+2. [BABOK Stakeholder Engagement Workshop Runsheet](https://github.com/kalilalincen/Business-Analyst/blob/main/Workshop/Workshop%20Runsheet%20-%20BABOK%20Chapter%203%20Part%201.pdf)
+
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
