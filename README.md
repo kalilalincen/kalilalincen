@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 # I'm Kalila, a ICT Business Analyst 👨‍💻 working since 2018 🚀
+# Scroll to the end for surprise!
   
 - 🔭 I’m currently working on a Financial Analysis Power BI Dashboard.  
   
