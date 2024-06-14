@@ -26,7 +26,7 @@
 </div>
 </td><td valign="top" width="33%">
 
-### Data Analytics  
+### Data Analytics 
 <div align="center">  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -50,7 +50,7 @@
  
 ## My Projects
 
-### Data-Analysis
+### Data-Analysis using Machine Learning
 1. [Appliance Energy Consumption Forecasting](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Forecast%20Appliance%20Energy%20Consumption%20using%20Time%20Series.ipynb)
 2. [Groceries Store Recommender System](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Groceries%20Store%20Recommender%20System.ipynb) and [PDF report](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Groceries%20Store%20Recommender%20System%20Report.pdf)
 3. [Salary Income Prediction](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Income%20Prediction%20Project.ipynb)
@@ -65,6 +65,7 @@
 ### Business Analysis techniques
 1. Facilitation - [Agenda](https://github.com/kalilalincen/Business-Analyst/blob/main/Facilitation/Facilitation%20Agenda.pdf) and [Defrief(Summary)](https://github.com/kalilalincen/Business-Analyst/blob/main/Facilitation/Facilitation%20Debrief%20-%20Organisational%20Culture%20and%20Stakeholders.pdf)
 2. Workshop - [BABOK Stakeholder Engagement Workshop Runsheet](https://github.com/kalilalincen/Business-Analyst/blob/main/Workshop/Workshop%20Runsheet%20-%20BABOK%20Chapter%203%20Part%201.pdf)
+3. Workshop - [Agile Mindset](https://github.com/kalilalincen/Business-Analyst/tree/main/Workshop/Agile%20Mindset%20Workshop)
 
 ### Power BI
 1. [Supermarket Sales Analysis](https://github.com/kalilalincen/Power-BI/tree/main/Supermarket%20Sales%20Analysis)
