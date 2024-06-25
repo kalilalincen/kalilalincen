@@ -70,7 +70,9 @@
 ### Power BI
 1. [Supermarket Sales Analysis](https://github.com/kalilalincen/Power-BI/tree/main/Supermarket%20Sales%20Analysis)
    ![image](https://github.com/kalilalincen/kalilalincen/assets/155357106/a973b229-e75a-40a7-9f1e-517c441b444a)
-   
+2. [Retail Stores Financial Analysis](https://github.com/kalilalincen/Power-BI/tree/main/Financial%20Analysis)
+   ![image](https://github.com/kalilalincen/kalilalincen/assets/155357106/57832c5e-0d89-4865-aa18-20b257a1c5b6)
+
 ![image](https://github.com/kalilalincen/kalilalincen/assets/155357106/269c1ff8-59bc-4235-9523-e4f3c4cffdee)
 Thank you for reviewing my portfolio, I hope you have a GREAT DAY!
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
