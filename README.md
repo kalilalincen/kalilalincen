@@ -2,7 +2,7 @@
 
 # I'm Kalila, a ICT Business Analyst 👨‍💻 Scroll down for surprise!🚀
   
-- 🔭 I’m currently working on a Financial Analysis Power BI Dashboard.  
+- 🔭 I’m currently working on a ERP related project.  
   
 - 🌱 I’m currently learning Microsoft PL-300.  
 
