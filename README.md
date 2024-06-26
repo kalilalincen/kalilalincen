@@ -55,7 +55,7 @@
 2. [Groceries Store Recommender System](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Groceries%20Store%20Recommender%20System.ipynb) and [PDF report](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Groceries%20Store%20Recommender%20System%20Report.pdf)
 3. [Salary Income Prediction](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Income%20Prediction%20Project.ipynb)
 4. [Iris Species Classification](https://github.com/kalilalincen/Data-Analysis-Machine-Learning/blob/main/Iris%20Species%20Classification%20Project.ipynb)
-5. Web Data Analytics
+5. Web Data Analysis using Google Analytics
    ![image](https://github.com/kalilalincen/kalilalincen/assets/155357106/049f4481-ec26-4927-a843-af17f333898f)
 
 
